@@ -1,1 +1,1 @@
-I script to format .log into .csv
+Code to format .log file into .csv
