@@ -1,1 +1,2 @@
-Code to format .log file into .csv
+**Python Script:**
+Code to format **.log** file into **.csv**
